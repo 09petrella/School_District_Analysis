@@ -16,7 +16,7 @@ Our purpose for the analysis was a continuation from the original school distric
 	- Does not have a noticeable affect in the scores by school spending.
 	- Does not have a noticeable affect in the scores by school size. 
 	- Does not have a noticeable affect in the scores by school type. 
-![School Summary DataFrame]
+![School Summary DataFrame](Resources/School_Summary_DF.png)
 
 ## District School Analysis Summary
 
